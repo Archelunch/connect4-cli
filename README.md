@@ -1,6 +1,6 @@
 # Connect 4
 
-<video src="https://github.com/Archelunch/connect4-cli/raw/refs/heads/main/media/connect4.mp4" width="300" />
+![Connect4 Demo](media/connect4.gif)
 
 ## Установка
 
